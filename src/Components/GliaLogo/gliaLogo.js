@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./gliaLogo.css";
 const GliaLogo = () => {
   const src = require("../../Assets/GliaCloud.png");

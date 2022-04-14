@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./gliaHeaderRight.css";
 const GliaHeaderRight = () => {
   return (
